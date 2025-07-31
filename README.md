@@ -5,8 +5,8 @@ I'm a Computer Science student at **Georgia Tech** (Class of 2027) and a proud m
 ## About Me
 
 - **Education:** Georgia Institute of Technology, B.S. in Computer Science (Expected May 2027)
-- **Affiliation:** UCF Photovoltaics Team
-- **Interests:** Basketball, reading, and (thanks to my dog shead allergy) I love cats!
+- **Affiliation:** UCF Photovoltaics Team, GT CATLab
+- **Interests:** Basketball, reading, massive foodie and (thanks to my dog shead allergy) I love cats!
 
 ## Technical Skills
 
