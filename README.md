@@ -1,6 +1,6 @@
 # Hi, I'm Aamogh Sawant! 🤗
 
-I'm a Computer Science student at **Georgia Tech** (Class of 2027) and a proud member of the **UCF Photovoltaics** team.
+I'm a Computer Science student at **Georgia Tech** (Class of 2027) and a proud member of the **UCF Research Photovoltaics** team and **GT CATLab: Culture and Technology Lab** .
 
 ## About Me
 
