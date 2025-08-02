@@ -21,4 +21,3 @@ I'm a Computer Science student at **Georgia Tech** (Class of 2027) and a proud m
 - [Website](https://aamogh.vercel.app)
 - [LinkedIn](https://linkedin.com/in/aamoghsawant)
 - aamoghsawantt@gmail.com
-- (904) 300-5177
