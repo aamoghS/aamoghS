@@ -1,4 +1,4 @@
-# Hi, I'm Aamogh Sawant! 🤗 (I love hugging face, please hire me hugging face)
+# Hi, I'm Aamogh Sawant! 🤗 (I love hugging face)
 
 I'm a Computer Science student at **Georgia Tech** (Class of 2027) and a proud member of the **UCF Research Photovoltaics** team and **GT CATLab: Culture and Technology Lab**.
 
