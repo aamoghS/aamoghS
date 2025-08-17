@@ -14,6 +14,7 @@ I'm a Computer Science student at **Georgia Tech** and a proud member of the **U
 **Frameworks:** React, Express.js, Next.js, Node.js, Tailwind.css  
 **Libraries:** Scikit-learn, PyTorch, TensorFlow, Keras, NumPy, Pandas, Matplotlib, Flask, Django, OpenCV  
 **Tools:** Git, Jira, Slack, Vercel, Jupyter Notebook, Tableau, MongoDB, Firebase, Supabase, Linux 
+
 **Concepts:** Machine Learning, Full-Stack Development, Computer Vision, Cloud Computing, DevOps, Agile/Scrum, Frontend, Backend, Data Science, Software Engineering
 
 ## Connect With Me
