@@ -1,4 +1,4 @@
-# Hi, I'm Aamogh Sawant! 🤗
+# Hi, I'm Aamogh Sawant! 🤗 (I love hugging face)
 
 I'm a **Computer Science student at Georgia Tech** and a proud member of the **UCF Research Photovoltaics Team** and **CATLab**. I’m passionate about technology, research, and solving real-world problems.
 
