@@ -15,13 +15,13 @@ I'm a **Computer Science student at Georgia Tech** and a proud member of the **U
 ## Technical Skills
 
 **Languages:**  
-Java, Python, C++, C, Go, JavaScript, TypeScript, HTML/CSS, PowerShell, Bash, SQL, PostgreSQL  
+Java, Python, C++, C, Go, JavaScript, TypeScript, HTML/CSS, PowerShell, Bash, SQL
 
 **Frameworks & Libraries:**  
 React, Next.js, Express.js, Node.js, Tailwind.css, Flask, Django, PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib  
 
 **Tools & Platforms:**  
-Git, Jira, Slack, Vercel, Jupyter Notebook, Tableau, MongoDB, Firebase, Supabase, Linux  
+Git, Jira, Slack, Vercel, Jupyter Notebook, Tableau, MongoDB, Firebase, Supabase, Linux, PostgreSQL  
 
 **Concepts:**  
 Machine Learning, Full-Stack Development, Computer Vision, Cloud Computing, DevOps, Agile/Scrum, Software Engineering  
